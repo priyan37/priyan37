@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Priyadharshan Vadivel</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&width=500&lines=Cybersecurity+Student+%7C+Red+Team+Enthusiast;Breaking+into+systems+legally+%F0%9F%91%BD;Blending+AI+with+Hacking+Mindset;Always+learning%2C+always+hunting..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Pentesting+%7C+Red+Team+Enthusiast;Ethical+Hacking+in+Practice;AI-Driven+Security+Explorer;Solving+Real-World+Threats;Always+Learning%2C+Always+Improving" />
 </p>
 
 <p align="center">
@@ -11,15 +11,23 @@
   <a href="https://github.com/priyan37">
     <img alt="GitHub" title="GitHub Profile" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://sites.google.com/view/priyan37" target="_blank">
+    <img alt="Portfolio" title="Visit My Portfolio" src="https://img.shields.io/badge/Portfolio-%230077B5.svg?style=for-the-badge&logoColor=white">
+  </a>
 </p>
+
 
 ![Rainbow Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 💡 Whoami
 
-- 🧑‍🎓 A cybersecurity student eagerly waiting to solve real-world industry problems  
-- 🧨 Passionate about Red Teaming and exploring AI in Cybersecurity  
+- 🧑‍🎓 A cybersecurity student eagerly waiting to solve real-world industry problems
+   
+- 🧨 Passionate about Red Teaming and exploring AI in Cybersecurity
+  
 - 🌐 Currently diving deep into Networking and AI-driven Security
+
+- 📫 How to reach me [**priyanvadivel442@gmail.com**](mailto:priyanvadivel@gmail.com)
 
 ---
 
